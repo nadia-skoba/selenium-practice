@@ -4,12 +4,12 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.NoSuchElementException;
 import io.github.bonigarcia.wdm.WebDriverManager;
 
-public class LoginTest {
+public class deletelogin {
 
     private WebDriver driver;
 
     public static void main(String[] args) {
-        LoginTest test = new LoginTest();
+        deletelogin test = new deletelogin();
         test.executeTest();
     }
 
